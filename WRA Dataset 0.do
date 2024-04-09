@@ -27,24 +27,24 @@ sort id
 
 tab screening
 tab service_avail_23 screening
-tab missing_service_24
-tab payment_25
-tab amount_26
-tab waiting_time_27
-tab satisfaction_28
-tab provider_attit_29
-tab distance_30
-tab transport_cost_31
-tab permission_to_screen_32
-tab source_of_permission_33
-tab gender_of_screener_34
-tab comfortable_with_male_35
-tab why_uncomfortable_36
-tab cultural_beliefs_37
-tab belief_38
-tab specify_belief_38
-tab referral_by_chv_39
-tab improvement_40
+tab missing_service_24 screening, col
+tab payment_25 screening, col
+tab amount_26 screening, col
+tab waiting_time_27 screening, col
+tab satisfaction_28 screening, col
+tab provider_attit_29 screening, col
+tab distance_30 screening, col
+tab transport_cost_31 screening, col
+tab permission_to_screen_32 screening, col
+tab source_of_permission_33 screening, col
+tab gender_of_screener_34 screening, col
+tab comfortable_with_male_35 screening, col
+tab why_uncomfortable_36 screening, col
+tab cultural_beliefs_37 screening, col
+tab belief_38 screening, col
+tab specify_belief_38 screening, col
+tab referral_by_chv_39 screening, col
+tab improvement_40 screening, col
 
 * --- Cross Tabulate tab var1 var2 ---*
 tab missing_service_24 screening
