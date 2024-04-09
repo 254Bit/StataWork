@@ -37,9 +37,12 @@ tab distance_30 screening, col
 tab transport_cost_31 screening, col
 tab permission_to_screen_32 screening, col
 tab source_of_permission_33 screening, col
+
 tab gender_of_screener_34 screening, col
+tab why_uncomfortable_36 if gender_of_screener_34==1 & screening==1
 tab comfortable_with_male_35 screening, col
 tab why_uncomfortable_36 screening, col
+
 tab cultural_beliefs_37 screening, col
 tab belief_38 screening, col
 tab specify_belief_38 screening, col
